@@ -1,1 +1,1 @@
-# pw_skills_assignemt1
+this repository is here for pw skills assignment 1
